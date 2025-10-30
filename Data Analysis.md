@@ -7,7 +7,7 @@ This is a **4-week project** where each student works independently but follows 
 - Visualization: **ggplot2**  
 
 Each student will create their own dataset, document it, and analyze it with R.  
-The structure is the same for everyone, but the **topic/idea is unique** to each student.  
+The structure is the same for everyone, but the **topic/idea is unique** to each student. . 
 
 ---
 ## Use the same Database from your Data Tools final project. It had:
